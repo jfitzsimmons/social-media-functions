@@ -5,7 +5,7 @@ const app = require('express')();
 const FBAuth = require('./util/fbauth')
 
 const {db} = require('./util/admin')
-// testjpf 2
+
 const {
   getAllScreams,
   postOneScream,
